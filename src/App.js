@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Las casas <code>src/App.js</code> and save to reload.
+          Probando la nueva integración de Visual Studio Code en Github <br>Es una locura!!<code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
