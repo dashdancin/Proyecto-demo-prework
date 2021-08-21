@@ -10,6 +10,9 @@ function App() {
         <p>
           Probando la nueva integración de Visual Studio Code en Github <br/>Es una locura!!<code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          Probando el entrelazamiento con Github
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
