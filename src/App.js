@@ -11,7 +11,7 @@ function App() {
           Probando la nueva integración de Visual Studio Code en Github <br/>Es una locura!!<code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Cambio super tontito
+          Cambio para probar la solicitud de contraseña
         </p>
         <a
           className="App-link"
